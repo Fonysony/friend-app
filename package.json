@@ -1,0 +1,16 @@
+{
+  "name": "react-starter",
+  "version": "1.0.0",
+  "description": "Boilerplate for React and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "William Santos",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^1.2.1",
+    "express": "^4.18.1"
+  }
+}
